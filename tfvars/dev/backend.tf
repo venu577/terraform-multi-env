@@ -1,5 +1,5 @@
 
-bucket = "84s-remote-state-dev"
+bucket = "84s-venub-dev"
 key    = "tfvars-demo"
 region = "us-east-1"
 encrypt        = true
